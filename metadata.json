@@ -1,0 +1,6 @@
+{
+  "name": "Sweety – Blood Glucose Tracker",
+  "description": "Professional healthcare blood glucose tracking application with JWT authentication, PostgreSQL database, clinical validation, and daily/monthly reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
